@@ -1,0 +1,1 @@
+print(sum(map(lambda x:x in"aeiou",input().lower())))
