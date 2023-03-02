@@ -1,0 +1,1 @@
+for x in input():'@'<x<'['==print(end=x)
