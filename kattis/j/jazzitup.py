@@ -1,0 +1,1 @@
+[all(i%m for m in range(2,i))and print(i)*exit()for i in range(int(input())-1,1,-1)]
