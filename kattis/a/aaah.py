@@ -1,0 +1,1 @@
+print("ng"[len(input())>=len(input())]+"o")
